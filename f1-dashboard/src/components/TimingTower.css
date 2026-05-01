@@ -1,0 +1,17 @@
+
+.row {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px 0;
+  padding: 12px;
+  border-radius: 12px;
+
+  background: rgba(255,255,255,0.08);
+  backdrop-filter: blur(12px);
+
+  transition: 0.3s;
+}
+
+.row:hover {
+  transform: scale(1.02);
+}

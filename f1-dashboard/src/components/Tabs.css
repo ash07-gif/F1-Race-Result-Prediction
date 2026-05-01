@@ -1,0 +1,21 @@
+.tabs {
+  display: flex;
+  justify-content: space-around;
+  margin: 20px 0;
+}
+
+.tab {
+  cursor: pointer;
+  opacity: 0.6;
+}
+
+.tab.active {
+  opacity: 1;
+}
+
+.underline {
+  height: 3px;
+  background: red;
+  width: 33%;
+  transition: transform 0.3s;
+}
