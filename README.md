@@ -12,8 +12,6 @@ This project goes beyond prediction—focusing on **race dynamics, driver behavi
 
 > Live dashboard featuring race predictions, timing tower, performance analytics, and driver insights.
 
-*(Add screenshots here later for maximum impact)*
-
 ---
 
 ## 🚀 What This Project Does
